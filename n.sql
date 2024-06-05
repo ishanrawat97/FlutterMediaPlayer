@@ -2,7 +2,7 @@
 -- ER/Studio Data Architect SQL Code Generation
 -- Project :      Model1git.DM1
 --
--- Date Created : Wednesday, June 05, 2024 08:09:34
+-- Date Created : Wednesday, June 05, 2024 08:09:58
 -- Target DBMS : Snowflake
 --
 
