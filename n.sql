@@ -6,5 +6,5 @@ ALTER TABLE "Entity1"
 ;
 
 ALTER TABLE "Entity1"
-    DROP COLUMN g
+    ADD COLUMN gw char(10)
 ;
