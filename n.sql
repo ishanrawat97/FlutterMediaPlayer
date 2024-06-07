@@ -1,10 +1,19 @@
+--
+-- ER/Studio Data Architect SQL Code Generation
+-- Project :      Model1git.DM1
+--
+-- Date Created : Friday, June 07, 2024 09:09:03
+-- Target DBMS : Snowflake
+--
 
--- Standard Alter Table SQL
+-- 
+-- TABLE: Entity1 
+--
 
-ALTER TABLE "Entity1"
-    RENAME COLUMN f TO z
+CREATE TABLE Entity1(
+    z    CHAR(10)
+)
 ;
 
-ALTER TABLE "Entity1"
-    ADD COLUMN gw char(10)
-;
+
+
