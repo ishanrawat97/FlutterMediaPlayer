@@ -1,0 +1,16 @@
+//
+// ER/Studio Data Architect 
+// Project :      Model1git.DM1
+//
+// Date Created : Friday, June 07, 2024 17:44:20
+// Target DBMS : MongoDB 4.x
+//
+
+// 
+// COLLECTION: Entity1 
+//
+
+{
+    _id : new ObjectId()
+}
+
