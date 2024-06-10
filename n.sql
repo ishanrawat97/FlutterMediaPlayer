@@ -12,7 +12,8 @@
 
 CREATE TABLE Entity1(
     z    CHAR(10),
-    a    CHAR(10)
+    a    CHAR(10),
+    b    CHAR(10)
 )
 ;
 
