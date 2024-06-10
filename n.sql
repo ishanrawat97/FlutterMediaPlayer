@@ -2,7 +2,7 @@
 -- ER/Studio Data Architect SQL Code Generation
 -- Project :      Model1git.DM1
 --
--- Date Created : Friday, June 07, 2024 17:28:48
+-- Date Created : Monday, June 10, 2024 07:18:33
 -- Target DBMS : Snowflake
 --
 
@@ -14,6 +14,5 @@ CREATE TABLE Entity1(
     z    CHAR(10)
 )
 ;
-1235
 
 
