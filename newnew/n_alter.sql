@@ -1,6 +1,12 @@
 
--- Standard Alter Table SQL
+-- Drop Constraint, Rename and Create Table SQL
 
-ALTER TABLE "Entity1"
-    RENAME COLUMN b TO be
+CREATE TABLE "Entity1"
+(
+    z  char(10),
+    a  char(10),
+    be char(10),
+    cd char(10)
+)
+
 ;
