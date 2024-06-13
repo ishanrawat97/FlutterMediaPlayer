@@ -10,4 +10,3 @@ CREATE TABLE "Entity1"
 )
 
 ;
-wqrqwt
