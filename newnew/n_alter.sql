@@ -8,5 +8,5 @@ CREATE TABLE "Entity1"
     b  char(10),
     cd char(10)
 )
-
+qweqwr
 ;
