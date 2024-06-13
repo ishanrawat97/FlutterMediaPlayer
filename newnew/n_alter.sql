@@ -14,7 +14,7 @@ CREATE TABLE Entity1(
     z        CHAR(10),
     a        CHAR(10),
     aasdf    CHAR(10),
-    cd       CHAR(10)
+    cd       CHAR(10)124125
 )
 ;
 
