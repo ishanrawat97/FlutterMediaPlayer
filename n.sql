@@ -12,7 +12,7 @@
 
 CREATE TABLE Entity1(
     z    CHAR(10)
-)
+)111
 ;
 
 
