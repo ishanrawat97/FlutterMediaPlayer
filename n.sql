@@ -12,3 +12,4 @@ ALTER TABLE "Entity1"
 ALTER TABLE "Entity1"
     ADD COLUMN cd char(10)
 ;
+1234
