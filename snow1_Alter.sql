@@ -4,7 +4,7 @@
 ALTER TABLE "Entity1"
     RENAME COLUMN z TO asad
 ;
-
+1234
 ALTER TABLE "Entity1"
     ADD COLUMN a char(10)
 ;
