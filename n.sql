@@ -1,16 +1,22 @@
+--
+-- ER/Studio Data Architect SQL Code Generation
+-- Project :      Model1git.DM1
+--
+-- Date Created : Friday, June 14, 2024 08:38:55
+-- Target DBMS : Snowflake
+--
 
--- Standard Alter Table SQL
+-- 
+-- TABLE: Entity1 
+--
 
-ALTER TABLE "Entity1"
-    ADD COLUMN a char(10)
+CREATE TABLE Entity1(
+    z     CHAR(10),
+    a     CHAR(10),
+    b     CHAR(10),
+    cd    CHAR(10)
+)
 ;
 
-ALTER TABLE "Entity1"
-    ADD COLUMN b char(10)
-;
 
-ALTER TABLE "Entity1"
-    ADD COLUMN cd char(10)
-;
-1234
-5
+
