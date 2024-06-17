@@ -1,12 +1,22 @@
+--
+-- ER/Studio Data Architect SQL Code Generation
+-- Project :      Model1git.DM1
+--
+-- Date Created : Monday, June 17, 2024 20:57:24
+-- Target DBMS : Snowflake
+--
 
--- Drop Constraint, Rename and Create Table SQL
+-- 
+-- TABLE: Entity1 
+--
 
-CREATE TABLE "Entity1"
-(
-    z  char(10),
-    a  char(10),
-    bc char(10),
-    cd char(10)
+CREATE TABLE Entity1(
+    z     CHAR(10),
+    a     CHAR(10),
+    bc    CHAR(10),
+    cd    CHAR(10)
 )
-
 ;
+
+
+
